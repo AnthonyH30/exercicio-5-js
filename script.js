@@ -1,4 +1,4 @@
-var itens = ["sapato", "calça", "camisa", "meia", "casaco"];
+let itens = ["sapato", "calça", "camisa", "meia", "casaco"];
 console.log(itens);
 itens.unshift("chinelo");
 console.log(itens);
